@@ -26,8 +26,8 @@ We are using [semantic-release](https://github.com/semantic-release/semantic-rel
 ## Install
 ```bash
   $ meteor add raix:push
-  $ meteor add cordova:cordova-plugin-device@1.1.5
-  $ meteor add cordova:phonegap-plugin-push@1.5.2
+  $ meteor add cordova:cordova-plugin-device@1.3.2
+  $ meteor add cordova:phonegap-plugin-push@2.1.2
   # Note: you probably want to adjust the version numbers to the latest versions of the packages
 ```
 
